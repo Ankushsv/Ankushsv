@@ -75,9 +75,9 @@ and solving problems that push my technical thinking.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL  
-- 📧 Email: YOUR_EMAIL  
-- 🌐 Portfolio: (optional)
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/ankush-singh-7v7/"> https://www.linkedin.com/in/ankush-singh-7v7</a>
+- 📧 Email: <a href="ankushsinghv77@gmail.com"> ankushsinghv77@gmailcom </a>
+- 🌐 Portfolio: 
 
 ---
 
