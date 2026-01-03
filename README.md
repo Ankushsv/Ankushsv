@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anku</h1>
+<h1 align="center">Hi 👋, I'm Ankush Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full+Stack+Developer+(MERN);AI+%26+Computer+Vision+Enthusiast;Building+Real-World+Systems" />
