@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 2nd-year **B.Tech Computer Science student**  
+🎓 3nd-year **B.Tech Computer Science student**  
 💡 Passionate about **AI, Machine Learning & Computer Vision**  
 🛠️ Strong foundation in **Full-Stack (MERN)** development  
 🧠 Curious about **how systems work internally**  
